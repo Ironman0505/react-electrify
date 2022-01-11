@@ -1,0 +1,32 @@
+h3{
+  color:rgb(100, 237, 118);
+  text-align: center;
+  margin:20px;
+}
+h2{
+  margin:20px;
+}
+.omn{
+  border-radius: 50%;
+  height:50px;
+  width:auto;
+  margin:10px;
+}
+.pic{
+  display:flex;
+  margin:auto;
+  width:50%;
+  border-radius: 17%;
+}
+.zap{
+  display:flex;
+  margin:auto;
+  width:50%;
+  border-radius: 17%;
+  /* border-radius: 50%; */
+  height:300px;
+  width:auto;
+}
+h4,p{
+  color:cornsilk;
+}
